@@ -2,9 +2,12 @@
 Plans for the future - duration, timeline, goals
 
 My ultimate goal by the end of next year, 2024 latest by mid 2025, to design a HRSS system on a website, covering the **basics** of a payroll system, attendance, and HR management services in a Singapore-based context with it's regulatory laws.
+
 To do that I would first have to 
+
 Step 1. Learn Python - this includes learning the applications for python, and choosing which one to focus on for the goal.
       - Considering trying to learn python from different websites.
+      - Codecademy - 
   
 Step 2. Learn frameworks
 - mostly focusing on web development and using it's framework.
