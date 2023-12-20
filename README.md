@@ -4,10 +4,11 @@ Plans for the future - duration, timeline, goals
 My ultimate goal by the end of next year, 2024 latest by mid 2025, to design a HRSS system on a website, covering the **basics** of a payroll system, attendance, and HR management services in a Singapore-based context with it's regulatory laws.
 To do that I would first have to 
 Step 1. Learn Python - this includes learning the applications for python, and choosing which one to focus on for the goal.
-  - mostly focusing on web development and using it's framework.
-      - Need to consider using Django, and learning Frontend Integration - frontend technologies like HTML, CSS, and JavaScript.
+      - Considering trying to learn python from different websites.
+  
 Step 2. Learn frameworks
-
+- mostly focusing on web development and using it's framework.
+      - Need to consider using Django, and learning Frontend Integration - frontend technologies like HTML, CSS, and JavaScript.
 
 Copied from ChatGPT
 **"Step 1: Define Requirements and Features**
@@ -70,7 +71,7 @@ Sketch a basic design of your application's interface and workflows.
 6.2 Frontend Development:
 
 Use your chosen frontend framework to create responsive and user-friendly UI components.
-Step 7: Testing
+**Step 7: Testing**
 7.1 Unit Testing:
 
 Write and conduct unit tests for individual components.
@@ -80,7 +81,7 @@ Test the interaction between different modules.
 7.3 User Acceptance Testing (UAT):
 
 Invite HR professionals to test the system and provide feedback.
-Step 8: Deployment
+**Step 8: Deployment**
 8.1 Choose Hosting Platform:
 
 Select a hosting platform (e.g., AWS, Heroku) for deploying your application.
@@ -100,7 +101,7 @@ Continuously gather feedback from users to make improvements.
 9.3 Regular Updates:
 
 Keep the system updated with new features and security patches.
-Step 10: Learn and Improve
+**Step 10: Learn and Improve**
 10.1 Continuous Learning:
 
 Stay updated with new technologies and best practices in software development.
