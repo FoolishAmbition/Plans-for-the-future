@@ -15,35 +15,35 @@ Step 2. Learn frameworks
 
 Copied from ChatGPT
 **"Step 1: Define Requirements and Features**
-1.1 Understand HR Processes:
+1.1 Understand HR Processes: **completed**
 
 Learn about common HR processes such as employee onboarding, attendance tracking, payroll management, and performance reviews.
-1.2 List Core Features:
+1.2 List Core Features: **completed**
 
 Identify essential features like employee database, attendance management, leave management, and a user-friendly interface.
-1.3 Gather Requirements:
+1.3 Gather Requirements: **completed**
 
 Communicate with potential users (HR professionals) to understand specific needs and features they require.
 Step 2: Learn and Choose Technologies
-2.1 Learn Programming Basics:
+2.1 Learn Programming Basics: 
 
-Start with a beginner-friendly programming language like Python or JavaScript.
+Start with a beginner-friendly programming language like Python or JavaScript. **completed**
 2.2 Choose a Tech Stack:
 
 Select a backend framework (e.g., Django for Python, Node.js for JavaScript) and a frontend framework (e.g., React, Angular).
-2.3 Database Management:
+2.3 Database Management: **NOT COMPLETED**
 
 Learn basics of database management systems (e.g., MySQL, PostgreSQL) for storing employee data.
-2.4 Version Control:
+2.4 Version Control:**NOT COMPLETED** planning to learn from The Odin Project for database management.
 
 Understand version control systems like Git to track changes in your code.
 Step 3: Set Up Development Environment
 3.1 Install Necessary Software:
 
-Set up a code editor (e.g., VSCode), install Python or Node.js, and set up a database server.
+Set up a code editor (e.g., VSCode), install Python or Node.js, and set up a database server. **COMPLETED**
 3.2 Project Structure:
 
-Organize project folders for clarity. Understand the structure of backend and frontend code.
+Organize project folders for clarity. Understand the structure of backend and frontend code. **WIP, Password generator, Luhn Algorithm,**
 Step 4: Build Core Modules
 4.1 Employee Database:
 
